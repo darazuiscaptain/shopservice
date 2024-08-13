@@ -97,8 +97,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
 
-## Contact
 
-For any inquiries or support, please contact me at harismohanty8658gmail.com.
-
-Thank you for using ShopSavvy!
